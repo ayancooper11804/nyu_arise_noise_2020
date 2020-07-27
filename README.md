@@ -1,1 +1,4 @@
-# nyu_arise_noise_2020
+# NYU ARISE 2020 Noise Monitoring
+
+## Abstract
+Noise pollution, which is widespread harmful noise levels, is a significant problem in urban areas across the United States. Estimates show that 9 out of 10 adults in New York City are exposed to immoderate noise levels, which extends across NYC’s 8.7 million residents. The Music And Audio Research Lab (MARL) and the Sounds Of New York City (SONYC)’s research is focused on tracking noise levels throughout NYC with the use of multiple sensors. Starting in March of 2017, SONYC’s goal is to identify what makes the city so loud, and how to use research to help those with noise issues understand their environment in terms of sound. In this project, we want to design a pipeline for the summarization and visualization of urban sound data in a way that helps residents of the city and city agencies better understand noise to enforce better NYC health policies. To do so, we examine hundreds of thousands of data points containing the measurement of Sound Pressure Level (SPL) and study its evolution over time at different temporal scales and locations.
